@@ -1,4 +1,11 @@
-![Logo](ux/assets/logo.png "Sassy Girl")
+#SASSY GIRL
+
+Reto desarrollado para la hackathon interna pre Talent-fest. Sassy Girl es una tienda virtual, en donde pueden navegar potenciales interesados en los productos y también nuestro cliente(persona que repone el stock). 
+
+![SASSY](https://raw.githubusercontent.com/NatalyCortez/hackathon-rails/master/assets/images/sassy.png)
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 
 
 ## PROBLEMA
