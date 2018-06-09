@@ -2,7 +2,7 @@
 
 Reto desarrollado para la hackathon interna pre Talent-fest. Sassy Girl es una tienda virtual, en donde pueden navegar potenciales interesados en los productos y también nuestro cliente(persona que repone el stock). 
 
-![SASSY](https://raw.githubusercontent.com/NatalyCortez/hackathon-rails/master/assets/images/sassy.png)
+![SASSY]![sassy](https://user-images.githubusercontent.com/32307227/41189443-9bbb59de-6b93-11e8-9a4f-e2fef6ab39d0.png)
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
